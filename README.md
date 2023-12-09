@@ -26,7 +26,9 @@ Skills: react / js / Express js / MongoDB / firebase / HTML / CSS / Tailwind.
 
 
 ### technology-and-electronics-website
-#live link: https://technology-and-electronics-client-weld.vercel.app/
-#client-side code: https://github.com/Rajib4375/technology-and-electronics-client
-#server-side code: https://github.com/Rajib4375/technology-and-electronics-server
+- live link: https://technology-and-electronics-client-weld.vercel.app/
+
+- client-side code: https://github.com/Rajib4375/technology-and-electronics-client
+
+- server-side code: https://github.com/Rajib4375/technology-and-electronics-server
 
