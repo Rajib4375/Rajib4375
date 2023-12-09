@@ -25,10 +25,19 @@ Skills: react / js / Express js / MongoDB / firebase / HTML / CSS / Tailwind.
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Rajib4375)  
 
 
-### technology-and-electronics-website
+### Technology-And-Electronics-Website
 - live link: https://technology-and-electronics-client-weld.vercel.app/
-
 - client-side code: https://github.com/Rajib4375/technology-and-electronics-client
-
 - server-side code: https://github.com/Rajib4375/technology-and-electronics-server
+
+  ### Career-Hub-Website
+  - live link: https://career-hub-a2f08.web.app/
+  - client-side code: https://github.com/Rajib4375/b8a11-client-side-Rajib4375
+  -server-side code: https://github.com/Rajib4375/b8a11-server-side-Rajib4375
+
+### Hostel-Management-Website
+-Live Site Link: https://student-hostel-management.web.app/
+-Client Side Github Repository Link: https://github.com/Rajib4375/hostel-management-client
+-Server Side Github Repository Link: https://github.com/Rajib4375/hostel-management-server
+  
 
