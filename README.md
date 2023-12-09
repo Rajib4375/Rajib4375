@@ -35,11 +35,11 @@ Skills: react / js / Express js / MongoDB / firebase / HTML / CSS / Tailwind.
     
   - client-side code: https://github.com/Rajib4375/b8a11-client-side-Rajib4375
     
-  -server-side code: https://github.com/Rajib4375/b8a11-server-side-Rajib4375
+  - server-side code: https://github.com/Rajib4375/b8a11-server-side-Rajib4375
 
 ### Hostel-Management-Website
--Live Site Link: https://student-hostel-management.web.app/
--Client Side Github Repository Link: https://github.com/Rajib4375/hostel-management-client
--Server Side Github Repository Link: https://github.com/Rajib4375/hostel-management-server
+- Live Site Link: https://student-hostel-management.web.app/
+- Client Side Github Repository Link: https://github.com/Rajib4375/hostel-management-client
+- Server Side Github Repository Link: https://github.com/Rajib4375/hostel-management-server
   
 
